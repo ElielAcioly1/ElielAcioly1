@@ -20,6 +20,8 @@
 - React.js
 - Next.js
 - MySql
+- Métodos Ágeis scrum
+- Extreme programing
 <!---
 ElielAcioly1/ElielAcioly1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
