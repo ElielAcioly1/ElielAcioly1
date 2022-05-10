@@ -1,9 +1,8 @@
 - � Eu sou Eliel Acioly.
 - 🌱 Estudo engenharia de software, desenvolvimento fullstack e sou qualificado em programação e desenvolvimento de sistemas.
-- 📫 aciolyeliel@gmail.com - 55 (82) 99813-4057 
-<p align="center">
-  <a href="www.linkedin.com/in/eliel-acioly-ea/">LinkedIn</a>
-</p>
+- 📫 aciolyeliel@gmail.com - 
+- 55 (82) 99813-4057 / 99931-8266
+- <a href="www.linkedin.com/in/eliel-acioly-ea/">LinkedIn</a>
 
 <p align="center">
   <kbd> <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFE3J9zG7x0bg/profile-displayphoto-shrink_200_200/0/1644381798428?e=1657756800&v=beta&t=MvgMGJuHD00XL7a-JQTuaBDx146Doz8Rt2BPSiaT1sU" /> </kbd>
