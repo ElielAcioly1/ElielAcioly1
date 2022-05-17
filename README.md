@@ -4,22 +4,15 @@
    <a href="www.linkedin.com/in/eliel-acioly-ea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "aciolyeliel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
-     <h1 align="center">Desenvolvedor fullstack</h1>
+     <h1 align="center">Developer fullstack</h1>
   
   <p align="right">Eliel Acioly</p>
    <img align="right" alt="Eliel-pic" height="150" style="border-radius:50%;" src="https://media-exp1.licdn.com/dms/image/C4E03AQFE3J9zG7x0bg/profile-displayphoto-shrink_200_200/0/1644381798428?e=1657756800&v=beta&t=MvgMGJuHD00XL7a-JQTuaBDx146Doz8Rt2BPSiaT1sU">
   
   </div>
-
-- <p>🌱 Estudante de engenharia de software e desenvolvimento fullstack sou  qualificado em desenvolvimento de sistemas.</p>
-- <p> +55 (82) 99813-4057 / 99931-8266</p>
- 
-<div> 
-  🚀 Habilidades 
-
-- Ágilidade scrum
-- Extreme programing
-  
+ <div> 
+  <p>🌱 Estudante de engenharia de software e desenvolvedor fullstack. - +55 (82) 99813-4057 / 99931-8266</p>
+  <p>🚀 Habilidades: Ágilidade scrum - Extreme programing </p>
  </div>
  
   <div style="display: inline_block"><br> 
