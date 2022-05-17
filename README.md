@@ -16,7 +16,7 @@
  </div>
  
   <div style="display: inline_block"><br> 
-  <h1> 🚀 Tecnologias</h1>
+  <h2> 🚀 Tecnologias</h2>
   <img align="center" alt="Eliel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
    <img align="center" alt="Eliel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
    <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
